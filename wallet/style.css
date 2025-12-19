@@ -1,0 +1,9 @@
+
+
+#balance-text, #balance-amount {
+    color: white;
+}
+
+#balance-amount {
+    font-size: 50px;
+}
