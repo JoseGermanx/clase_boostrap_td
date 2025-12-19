@@ -7,3 +7,21 @@
 #balance-amount {
     font-size: 50px;
 }
+
+
+
+
+/* Estilos para el aviso del evento */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.brand-color {
+    color: #4f46e5;
+}
+
+.hero-custom {
+    background: linear-gradient(135deg, #ffffff 0%, #dee7f3 100%);
+    border: 1px solid #e5e7eb;
+}
